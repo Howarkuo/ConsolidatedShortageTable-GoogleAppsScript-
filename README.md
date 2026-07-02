@@ -1,4 +1,4 @@
-# ConsolidatedShortageTable-GoogleAppsScript
+# ConsolidatedShortageTable-GoogleApps/VBA
 ## Aim:
 - Fetch Batch Q:AP
 - Single Active Cell Logging
