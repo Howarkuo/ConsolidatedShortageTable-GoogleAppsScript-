@@ -1,4 +1,10 @@
 # ConsolidatedShortageTable-GoogleAppsScript
+## Aim:
+- Fetch Batch Q:AP
+- Single Active Cell Logging
+- Column F Parsing 
+- Daily / Weekly / Overhead Matching 
+- Adjusted-Current Calculation 
 
 ### Overall Flow
 ```
