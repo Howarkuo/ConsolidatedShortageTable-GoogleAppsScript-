@@ -5,14 +5,14 @@
 - Data Wrangling (or Date String Parsing), HashMapping ,ETL pipeline for multiple tables
 - Minimize Time Complexity Approach (For 3 rows as a set reptitivie pattern )
 - Consolidated Shortage Table
-## Example Modules
-- ParseYMD()
-- ParseMD()
-- DateBelongsToHeader()
-- GetQtyFromColumnF()
-- ToNumbers()
-- FillSpotBuyBlanksWithZero()
-- CalculateBalances()
+##  Modules Sequences
+1. AddStatusColumnAfterP
+2.ExpandQRowsToDemandSupplyBalance
+3 FillDown_ItemNo, FillDown_SpecialCells_MultiCol, FillPattern_FGH, FillDown_SpecialCells_I_to_P
+4. SupplyWriteIn
+5. InsertAndCalculate_ColumnR
+6. FillBlanksWithZero
+7. CalculateBalance
 ![Macros Dashboard](macros.png)
 
 ### Spreadsheet Size and Range
